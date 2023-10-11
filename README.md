@@ -18,7 +18,7 @@ pysteps (Copyright (c) 2019, PySteps developers) is provided under the BSD 3-Cla
 The scripts and data in the other folders ('Data', 'GridPointsToGeotiff', 'Nowcasting') are free to use: you can redistribute them and/or modify them under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your opinion) any later version. These scripts are redistributed in the hope that they will be useful, but without any warranty and without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licences/. The producer of this tool is by no means to be held responsible for the use of and the results of this tool.
 
 # References
-Imhoff, R. O., Overeem, A., Brauer, C. C., Leijnse, H., Weerts, A. H., & Uijlenhoet, R. (2020a). Rainfall Nowcasting Using Commercial Microwave Links. Manuscript submitted to Geophysical Research Letters.
+Imhoff, R. O., Overeem, A., Brauer, C. C., Leijnse, H., Weerts, A. H., & Uijlenhoet, R. (2020a). Rainfall Nowcasting Using Commercial Microwave Links. Geophysical Research Letters, 47, e2020GL089365. doi: 10.1029/2020GL089365.
 
 Imhoff, R. O., Brauer, C. C., Overeem, A., Weerts, A. H., & Uijlenhoet, R. (2020b). Spatial and temporal evaluation of radar rainfall nowcasting techniques on 1,533 events. Water Resources Research, 56, e2019WR026723. doi: 10.1029/2019WR026723.
 
